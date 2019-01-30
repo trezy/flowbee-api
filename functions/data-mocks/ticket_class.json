@@ -1,0 +1,33 @@
+{
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/52164371038/ticket_classes/97337749/",
+    "variant_id": null,
+    "name": "Ticket Test",
+    "description": null,
+    "donation": false,
+    "free": true,
+    "minimum_quantity": 1,
+    "maximum_quantity": null,
+    "maximum_quantity_per_order": 10,
+    "maximum_quantity_per_order_without_pending": null,
+    "on_sale_status": "AVAILABLE",
+    "quantity_total": 1,
+    "quantity_sold": 0,
+    "sales_start": "2018-11-02T17:15:00Z",
+    "sales_end": "2018-12-13T00:00:00Z",
+    "hidden": false,
+    "include_fee": false,
+    "split_fee": false,
+    "hide_description": true,
+    "auto_hide": false,
+    "variants": [],
+    "has_pdf_ticket": true,
+    "sales_channels": [
+        "online",
+        "atd"
+    ],
+    "delivery_methods": [
+        "electronic"
+    ],
+    "event_id": "52164371038",
+    "id": "97337749"
+}

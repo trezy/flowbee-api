@@ -1,0 +1,9 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": "@fuelrats/eslint-config",
+  "rules": {
+    "arrow-parens": ["off"]
+  }
+}
